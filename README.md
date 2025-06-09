@@ -485,6 +485,12 @@ Interpretabilidade:
 
 ---
 
+![Captura de tela 2025-06-09 221220](https://github.com/user-attachments/assets/acfb5336-994d-4de3-9ab8-6bc91ad99df3)
+
+![Captura de tela 2025-06-09 221242](https://github.com/user-attachments/assets/3dfb078b-4599-491d-aad2-c0e4a492ef8d)
+
+![Captura de tela 2025-06-09 221305](https://github.com/user-attachments/assets/7ab42668-fa91-4570-b5e5-46f3af4f3e0c)
+
 ## 🎯 Conclusões e Recomendações
 
 ### **✅ Objetivos Alcançados**
